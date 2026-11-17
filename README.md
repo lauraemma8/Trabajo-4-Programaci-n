@@ -1,4 +1,5 @@
 Software FJ: Sistema Integral de Gestión de Clientes, Servicios y Reservas
+
 Universidad Nacional Abierta y a Distancia (UNAD) Escuela de Ciencias Básicas, Tecnología e Ingeniería (ECBTI) Programa: Ingeniería de Sistemas Curso: Programación (213023) Actividad: Fase 4, Prácticas simuladas (trabajo colaborativo)
 
 Descripción
@@ -36,6 +37,7 @@ Módulo	Archivo	Contenido
 4. Reservas	reserva.py	Reserva con confirmación, cancelación y procesamiento
 5. Simulación	main.py	Flujo principal y operaciones de prueba
 Diseño de clases
+
 Clase	Tipo	Responsabilidad
 Entidad	Abstracta	Representa entidades generales del sistema
 Cliente	Hereda de Entidad	Datos personales encapsulados con validaciones estrictas
@@ -79,8 +81,10 @@ N°	Operación
 12	Procesar una reserva sin confirmarla
 13	Cancelar una reserva dos veces
 14	Reserva de equipos con stock insuficiente
+
 Cada error detectado se registra en el log y el programa continúa su ejecución sin interrumpirse. Al final se muestra un resumen con las operaciones exitosas y los errores controlados.
 
 Integrantes y aportes
 Integrante	Usuario de GitHub	Módulo
-Brian Felipe Penha Ortiz	@BrianF999	Módulo 1: logs y excepciones
+Brian Felipe Penha 	@BrianF999	Módulo 1: logs y excepciones
+
