@@ -120,7 +120,3 @@ Cada error detectado se registra en el log y el programa continúa su ejecución
 | Integrante | Usuario de GitHub | Módulo |
 |---|---|---|
 | Brian Felipe Penha Ortiz | [`@BrianF999`](https://github.com/BrianF999) | Módulo 1: logs y excepciones |
-| Heidy Yulieth Torres Céspedes | [`@yulieth2007`](https://github.com/yulieth2007) | Módulo 2: clientes |
-| Jeyson Fabian Martínez Horta | [`@yeisonfabianmartinezhorta-ui`](https://github.com/yeisonfabianmartinezhorta-ui) | Módulo 3: servicios |
-| Nataly Ortega Higuita | [`@nalyinmidahiguita-svg`](https://github.com/nalyinmidahiguita-svg) | Módulo 4: reservas |
-| Juan David Jiménez Correa | [`@juand42`](https://github.com/juand42) | Módulo 5: simulación |
