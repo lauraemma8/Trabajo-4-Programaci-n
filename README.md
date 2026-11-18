@@ -119,4 +119,4 @@ Cada error detectado se registra en el log y el programa continúa su ejecución
 
 | Integrante | Usuario de GitHub | Módulo |
 |---|---|---|
-| Brian Felipe Penha Ortiz | [`@BrianF999`](https://github.com/BrianF999) | Módulo 1: logs y excepciones |
+| Laura Emma Catalina Martinez  | [Lmartinezarroyounadvirtual.edu.co) | Todos los modulos|
