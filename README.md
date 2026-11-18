@@ -83,8 +83,7 @@ El objetivo es construir una aplicación **estable, modular y extensible**, que 
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/BrianF999/Trabajo_Colaborativo_Fase4.git
-   cd Trabajo_Colaborativo_Fase4
+   https://github.com/lauraemma8/Trabajo-4-Programaci-n
    ```
 2. Ejecutar la simulación desde la carpeta del proyecto:
    ```bash
