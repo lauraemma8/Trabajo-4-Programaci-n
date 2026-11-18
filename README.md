@@ -117,6 +117,6 @@ Cada error detectado se registra en el log y el programa continúa su ejecución
 
 ## Integrantes y aportes
 
-| Integrante | Usuario de GitHub | Módulo |
+| Integrante | Módulo |
 |---|---|---|
-| Laura Emma Catalina Martinez  | [Lmartinezarroyounadvirtual.edu.co) | Todos los modulos|
+| Laura Emma Catalina Martinez  | Todos los modulos|
